@@ -6,7 +6,7 @@ Vendor of the products:  Shenzhen Shengshi Zhongtang Technology Co., Ltd..(TOTOL
 
 Vendor's website:  [TOTOLINK](https://totolink.tw/)
 
-Reported by:  Wang Jinshuai(3265296623@qq.com),   Tang Bingheng(2640807724@qq.com)
+Reported by:  Wang Jinshuai(3265296623@qq.com),   Tang Bingceng(2640807724@qq.com)
 
 Affected products:  TOTOLINK N600R
 
@@ -71,6 +71,7 @@ Connection: close
 # Effect Demonstration
 
 ![image-20250826153644908](https://mono7s.oss-cn-wuhan-lr.aliyuncs.com/image/202508272130729.png)
+
 
 
 
