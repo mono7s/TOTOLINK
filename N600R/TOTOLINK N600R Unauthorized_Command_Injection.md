@@ -2,7 +2,7 @@
 
 
 
-Vendor of the products:  Shenzhen Shengshi Zhongtang Technology Co., Ltd..(TOTOLINK)
+Vendor of the products:  Gion Electronics (Shenzhen) Co., Ltd.(TOTOLINK)
 
 Vendor's website:  [TOTOLINK](https://totolink.tw/)
 
@@ -76,4 +76,5 @@ Connection: close
 
 
 ![image-20250826153629484](https://mono7s.oss-cn-wuhan-lr.aliyuncs.com/image/202508272130868.png)
+
 
